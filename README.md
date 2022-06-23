@@ -1,8 +1,7 @@
 # React Installation
 
+In the project directory, make sure to install all packages dependencies use `npm install`:
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
